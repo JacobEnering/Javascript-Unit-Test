@@ -1,1 +1,3 @@
-/* Put code for the task below */
+function OpenPage(){
+  window.open("newPage.html");
+}
